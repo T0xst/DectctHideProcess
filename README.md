@@ -14,15 +14,18 @@ Linux下进程隐藏检测与定位工具
 3.检测效果如下
 
   3.1 进程挂载检测效果
-![image](https://github.com/user-attachments/assets/b9d2fd7b-5886-4d8d-9a0c-943210bede94)
+![image](https://github.com/user-attachments/assets/3b5fcd52-f9ca-41a5-be20-3f514e15571c)
+
 
   3.2LKM Rootkit-Diamorphine检测效果
-![image](https://github.com/user-attachments/assets/6129e0d5-310e-411b-9ee2-8a6d3afe792d)
+
+![image](https://github.com/user-attachments/assets/a2ffc2cf-b3dd-4a04-97ec-7165a7dbf894)
 
 
   3.3库文件劫持检测效果
-![image](https://github.com/user-attachments/assets/a83dad65-90a9-4650-ba43-af86c5def967)
+![image](https://github.com/user-attachments/assets/9871617b-41be-414a-ac9b-0df5dd6fd463)
+
 
 
 综合检测效果：
-![image](https://github.com/user-attachments/assets/df4079ed-1edf-4958-879c-80b1076ba423)
+![image](https://github.com/user-attachments/assets/c861f501-4715-4963-b549-2e7a69d9b957)
